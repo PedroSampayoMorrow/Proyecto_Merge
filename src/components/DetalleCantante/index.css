@@ -1,0 +1,35 @@
+.detalleCantanteContainer{
+    color: white;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin: 0 2%;
+}
+.detalleCantante1{
+    width: max-content;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 2%;
+}
+.detalleCantante1 img{
+    height: 100%;
+}
+.detalleCantante2{
+    height: 100%;
+    color: white;
+    background-color: rgba(63, 63, 63, 0.509);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border: 1px solid white;
+    padding:0 10px;
+}
+.detalleCantante2 h1{
+    padding: 0;
+}
+.a{
+    color: white;
+}

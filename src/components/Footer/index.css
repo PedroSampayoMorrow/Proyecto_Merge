@@ -1,0 +1,23 @@
+.footer{
+    min-height: 10vh;
+    background-color: #4e73df;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+.ulFooter{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+}
+.autores{
+    display: flex;
+    justify-content: center;
+}
+.autores h6{
+    padding: 0 1%;
+}

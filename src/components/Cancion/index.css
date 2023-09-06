@@ -1,0 +1,19 @@
+.divPelicula{
+    display: flex; 
+    width: 15%;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: #4e73df;
+    border-radius: 10px;
+
+}
+img{
+    border: 1.5px solid black;
+}
+.descripcionOculta{
+    display: none;
+}
+p{
+    margin:0;
+}
